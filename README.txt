@@ -1,4 +1,4 @@
-##########################################
+﻿##########################################
 
 Übersicht
 
@@ -12,3 +12,5 @@ Neben der normalen Ansicht, zeigt die Webapp auch erweiterte Informationen zum E
 Support
 
 ##########################################
+
+Gibt kein Support ;)

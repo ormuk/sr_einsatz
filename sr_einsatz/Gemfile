@@ -9,6 +9,8 @@ gem 'sqlite3'
 gem 'rest-client'
 gem 'nokogiri'
 gem 'json'
+gem 'jquery-rails'
+
 
 
 # Gems used only for assets and not required
